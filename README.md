@@ -1,6 +1,8 @@
 # OBTSTORE-Mobile-App-UI
-Basic UI for a shopping app
+Basic UI for a shopping app which I also practiced custom component (ProductCard)
 
-You can use it as u wish
+// ONLY SRC AND INDEX FILES ARE UPLOADED. APP.JS IS IN ./SRC
 
-Thanks to www.patika.dev for that helpful project as a step of learning.
+You can use it as you wish
+
+Thanks to www.patika.dev for that worthwhile project as a step of learning.
